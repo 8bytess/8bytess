@@ -34,11 +34,12 @@ Here are our team members along with their GitHub profiles:
 | **Team Member**       | **Specialization**     |
 |-----------------------|-----------------------|
 | Aditya Tiwari         | Unassigned    |
-| Ashutosh Mahajan      | Unassigned   |
-| Dhruv Verma           | Unassigned |
-| Janhavi Choudhary     | Unassigned     |
-| Prathamesh Patil      | Unassigned                |
-| The Last Gamer        |Unassigned       |
+| Anshu Patil         | Unassigned    |
+| Ashutosh Mishra      | Unassigned   |
+| Dhruv Khot           | Unassigned |
+| Janhavi Nikumbh     | Unassigned     |
+| Soham Gadekar      | Unassigned                |
+| Harsh Vilkar        |Unassigned       |
 
 ---
 
