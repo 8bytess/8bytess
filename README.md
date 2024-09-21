@@ -9,6 +9,7 @@ Welcome to our GitHub profile! We are a passionate group of developers embarking
 Here are our team members along with their GitHub profiles:
 
 - [Aditya Tiwari](https://github.com/adtytiw)
+- [Anshu Patil](https://github.com/Smokein96)
 - [Ashutosh Mahajan](https://github.com/Ashutosh-M16)
 - [Dhruv Verma](https://github.com/Dhruvvvvvvv17)
 - [Janhavi Choudhary](https://github.com/Janhavvi79)
