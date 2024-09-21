@@ -10,11 +10,11 @@ Here are our team members along with their GitHub profiles:
 
 - [Aditya Tiwari](https://github.com/adtytiw)
 - [Anshu Patil](https://github.com/Smokein96)
-- [Ashutosh Mahajan](https://github.com/Ashutosh-M16)
-- [Dhruv Verma](https://github.com/Dhruvvvvvvv17)
-- [Janhavi Choudhary](https://github.com/Janhavvi79)
-- [Prathamesh Patil](https://github.com/Smokein96)
-- [The Last Gamer](https://github.com/TheLastGamer18)
+- [Ashutosh Mishra](https://github.com/Ashutosh-M16)
+- [Dhruv Khot](https://github.com/Dhruvvvvvvv17)
+- [Janhavi Nikumbh](https://github.com/Janhavvi79)
+- [Soham Gadekar](https://github.com/SohamGadekar67)
+- [Harsh Vilkar](https://github.com/TheLastGamer18)
 
 ---
 
